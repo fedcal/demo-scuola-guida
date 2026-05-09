@@ -1,0 +1,54 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Salvatore Esposito",
+      "ruolo": "Direttore e Istruttore MIT",
+      "bio": "Fondatore dell'autoscuola nel 2001. Istruttore abilitato MIT dal 1998 con oltre 2.000 patenti rilasciate. Specializzato in guida difensiva e corsi A.",
+      "anniEsperienza": 26,
+      "image": "/assets/img/team/salvatore.jpg",
+      "specialita": ["Patente A", "Patente B", "Guida difensiva"],
+      "abilitazione": "MIT n. 081/2024"
+    },
+    {
+      "id": 2,
+      "nome": "Carmine Russo",
+      "ruolo": "Istruttore MIT — Moto",
+      "bio": "Istruttore specializzato patenti A1, A2, A. Ex campione regionale di motociclismo. Conosce ogni tecnica di guida su due ruote.",
+      "anniEsperienza": 14,
+      "image": "/assets/img/team/carmine.jpg",
+      "specialita": ["Patente A1", "Patente A2", "Patente A"],
+      "abilitazione": "MIT n. 081/2019"
+    },
+    {
+      "id": 3,
+      "nome": "Lucia Ferrara",
+      "ruolo": "Istruttrice MIT — Patente B",
+      "bio": "Istruttrice con approccio calmo e metodico, ideale per studenti ansiosi. Specializzata in revisione patente e guida su strade complesse.",
+      "anniEsperienza": 9,
+      "image": "/assets/img/team/lucia.jpg",
+      "specialita": ["Patente B", "Revisione patente", "Guida urbana"],
+      "abilitazione": "MIT n. 081/2021"
+    },
+    {
+      "id": 4,
+      "nome": "Antonio De Luca",
+      "ruolo": "Insegnante Teoria",
+      "bio": "Professore di diritto stradale, gestisce le lezioni teoriche mattutine e serali. Ha redatto il materiale didattico interno dell'autoscuola.",
+      "anniEsperienza": 18,
+      "image": "/assets/img/team/antonio.jpg",
+      "specialita": ["Codice della strada", "Quiz teoria", "Normativa UE"],
+      "abilitazione": "Abilitazione all'insegnamento teoria"
+    },
+    {
+      "id": 5,
+      "nome": "Marianna Napoli",
+      "ruolo": "Insegnante Teoria e Segreteria",
+      "bio": "Gestisce le iscrizioni, il triage documenti e supporta le lezioni teoriche pomeridiane. Punto di riferimento per pratiche burocratiche.",
+      "anniEsperienza": 7,
+      "image": "/assets/img/team/marianna.jpg",
+      "specialita": ["Pratiche amministrative", "Lezioni teoria", "Supporto studenti"],
+      "abilitazione": "Abilitazione all'insegnamento teoria"
+    }
+  ]
+}

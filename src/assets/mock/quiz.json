@@ -1,0 +1,114 @@
+{
+  "domande": [
+    {
+      "id": 1,
+      "testo": "Il segnale che indica 'STOP' impone al conducente di:",
+      "risposte": [
+        "Rallentare e dare precedenza",
+        "Fermarsi completamente e dare precedenza",
+        "Fermarsi solo se ci sono altri veicoli"
+      ],
+      "corretta": 1,
+      "spiegazione": "Il segnale STOP (art. 145 CdS) obbliga a fermarsi completamente prima della linea di arresto, anche se non ci sono veicoli in arrivo."
+    },
+    {
+      "id": 2,
+      "testo": "In autostrada, la distanza di sicurezza dal veicolo che precede deve essere:",
+      "risposte": [
+        "Almeno 50 metri a qualsiasi velocità",
+        "Pari allo spazio percorso in 2 secondi alla velocità tenuta",
+        "Almeno 100 metri"
+      ],
+      "corretta": 1,
+      "spiegazione": "La distanza di sicurezza deve essere adeguata alla velocità tenuta: la regola dei 2 secondi è un metodo pratico consigliato dal Codice della strada."
+    },
+    {
+      "id": 3,
+      "testo": "È consentito sorpassare un veicolo che effettua una svolta a sinistra?",
+      "risposte": [
+        "Sì, sempre a destra",
+        "No, mai",
+        "Sì, solo se la strada è sufficientemente larga e non ci sono pericoli"
+      ],
+      "corretta": 2,
+      "spiegazione": "Il sorpasso a destra è normalmente vietato, salvo quando il veicolo davanti segnali l'intenzione di svoltare a sinistra e ci sia sufficiente spazio (art. 148 CdS)."
+    },
+    {
+      "id": 4,
+      "testo": "Il tasso alcolemico massimo consentito per i neopatentati nei primi 3 anni è:",
+      "risposte": [
+        "0,5 g/l",
+        "0,2 g/l",
+        "0,0 g/l"
+      ],
+      "corretta": 2,
+      "spiegazione": "Per i neopatentati (nei primi 3 anni), i conducenti under 21 e i professionisti il limite è 0,0 g/l di alcol nel sangue."
+    },
+    {
+      "id": 5,
+      "testo": "Quale segnale indica il divieto di sosta?",
+      "risposte": [
+        "Cerchio rosso con barra orizzontale",
+        "Cerchio blu con barra rossa diagonale",
+        "Rettangolo blu"
+      ],
+      "corretta": 0,
+      "spiegazione": "Il divieto di sosta è rappresentato da un cerchio con bordo rosso e una barra obliqua rossa su sfondo bianco (o blu in alcune varianti). La risposta più comune nei test è il cerchio rosso con barra."
+    },
+    {
+      "id": 6,
+      "testo": "In caso di nebbia fitta è obbligatorio:",
+      "risposte": [
+        "Accendere solo i fendinebbia anteriori",
+        "Accendere i fendinebbia posteriori e ridurre la velocità",
+        "Usare gli abbaglianti per vedere meglio"
+      ],
+      "corretta": 1,
+      "spiegazione": "I fendinebbia posteriori sono obbligatori quando la visibilità scende sotto i 50 metri. Gli abbaglianti peggiorano la visibilità in nebbia a causa del riflesso."
+    },
+    {
+      "id": 7,
+      "testo": "Quando si deve cedere il passo ai pedoni sulle strisce?",
+      "risposte": [
+        "Solo se il semaforo è verde per i pedoni",
+        "Sempre, anche senza semaforo",
+        "Solo se si è su strada a scorrimento veloce"
+      ],
+      "corretta": 1,
+      "spiegazione": "Il conducente deve sempre dare precedenza ai pedoni sugli attraversamenti pedonali, indipendentemente dalla presenza di semafori (art. 191 CdS)."
+    },
+    {
+      "id": 8,
+      "testo": "Qual è la velocità massima consentita in un centro abitato?",
+      "risposte": [
+        "50 km/h",
+        "70 km/h",
+        "30 km/h"
+      ],
+      "corretta": 0,
+      "spiegazione": "Nei centri abitati il limite è 50 km/h, salvo segnalazione diversa. Alcune zone 30 sono previste in aree residenziali o scolastiche."
+    },
+    {
+      "id": 9,
+      "testo": "È obbligatorio indossare le cinture di sicurezza:",
+      "risposte": [
+        "Solo sui sedili anteriori",
+        "Su tutti i sedili, anteriori e posteriori",
+        "Solo in autostrada"
+      ],
+      "corretta": 1,
+      "spiegazione": "Le cinture sono obbligatorie su tutti i sedili dove sono presenti (art. 172 CdS). La responsabilità è del conducente per i passeggeri minorenni."
+    },
+    {
+      "id": 10,
+      "testo": "In quale caso è vietato effettuare il sorpasso?",
+      "risposte": [
+        "In rettilineo con buona visibilità",
+        "In curva, in prossimità di incroci e su strisce pedonali",
+        "Su strade extraurbane secondarie"
+      ],
+      "corretta": 1,
+      "spiegazione": "Il sorpasso è vietato in curva, in prossimità di incroci, su passaggi a livello, strisce pedonali, in galleria senza corsie distinte e quando non c'è spazio sufficiente (art. 148 CdS)."
+    }
+  ]
+}

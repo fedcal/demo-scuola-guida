@@ -1,0 +1,46 @@
+{
+  "ragioneSociale": "Autoscuola Sicura S.r.l.",
+  "nomeCommerciale": "Autoscuola Sicura",
+  "tagline": "Patente B, A1/A2/A — Napoli",
+  "indirizzo": {
+    "via": "Via Toledo 128",
+    "citta": "Napoli",
+    "provincia": "NA",
+    "cap": "80132",
+    "regione": "Campania",
+    "paese": "Italia",
+    "lat": 40.8399,
+    "lng": 14.2480
+  },
+  "contatti": {
+    "telefono": "+39 081 555 2024",
+    "whatsapp": "+39 333 9876 543",
+    "email": "info@autoscuolasicura.it",
+    "social": {
+      "instagram": "https://instagram.com/autoscuolasicura_demo",
+      "facebook": "https://facebook.com/autoscuolasicura_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "08:30 – 12:30 / 15:00 – 19:00",
+    "martedi": "08:30 – 12:30 / 15:00 – 19:00",
+    "mercoledi": "08:30 – 12:30 / 15:00 – 19:00",
+    "giovedi": "08:30 – 12:30 / 15:00 – 19:00",
+    "venerdi": "08:30 – 12:30 / 15:00 – 19:00",
+    "sabato": "08:30 – 12:30",
+    "domenica": "Chiuso"
+  },
+  "servizi": {
+    "accessibileDisabili": true,
+    "wifiGratuito": true,
+    "ariaCondizionata": true,
+    "parcheggioConvenzionato": false,
+    "esameGuidatoConIstruttore": true,
+    "lezioniBilingui": false
+  },
+  "metaSeo": {
+    "title": "Autoscuola Sicura — Patente B A1 A2 A Napoli",
+    "description": "Autoscuola a Napoli per patente B, A1, A2, A. Istruttori abilitati MIT, quiz online, iscrizione rapida. Napoli centro, Via Toledo.",
+    "keywords": ["autoscuola napoli", "patente b napoli", "patente a napoli", "quiz patente", "foglio rosa napoli"]
+  }
+}

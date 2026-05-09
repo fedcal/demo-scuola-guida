@@ -1,0 +1,95 @@
+{
+  "corsi": [
+    {
+      "id": "patente-b",
+      "nome": "Patente B",
+      "descrizione": "La patente più richiesta per autovetture fino a 3,5t. Include lezioni di teoria, guida in pista e guida su strada.",
+      "prezzo": 700,
+      "durata": "3–6 mesi",
+      "lezioniTeoria": 30,
+      "lezioniGuida": 6,
+      "etaMinima": 17,
+      "featured": true,
+      "incluso": ["Kit teorico digitale", "6 ore guida su strada", "Accesso simulatore online", "Accompagnamento esame"],
+      "badge": "Più richiesto"
+    },
+    {
+      "id": "patente-a1",
+      "nome": "Patente A1",
+      "descrizione": "Per moto fino a 125cc e motori fino a 11 kW. Ideale per giovani dai 16 anni.",
+      "prezzo": 450,
+      "durata": "2–4 mesi",
+      "lezioniTeoria": 20,
+      "lezioniGuida": 5,
+      "etaMinima": 16,
+      "featured": true,
+      "incluso": ["Kit teorico digitale", "5 ore guida in pista", "Accesso simulatore online", "Accompagnamento esame"],
+      "badge": null
+    },
+    {
+      "id": "patente-a2",
+      "nome": "Patente A2",
+      "descrizione": "Per moto fino a 35 kW e rapporto potenza/peso ≤ 0,2 kW/kg. Dai 18 anni.",
+      "prezzo": 550,
+      "durata": "2–4 mesi",
+      "lezioniTeoria": 20,
+      "lezioniGuida": 5,
+      "etaMinima": 18,
+      "featured": true,
+      "incluso": ["Kit teorico digitale", "5 ore guida in pista", "Accesso simulatore online", "Accompagnamento esame"],
+      "badge": null
+    },
+    {
+      "id": "patente-a",
+      "nome": "Patente A",
+      "descrizione": "Patente moto illimitata. Accesso diretto dai 24 anni o progressione da A2 dopo 2 anni.",
+      "prezzo": 750,
+      "durata": "2–4 mesi",
+      "lezioniTeoria": 20,
+      "lezioniGuida": 6,
+      "etaMinima": 24,
+      "featured": false,
+      "incluso": ["Kit teorico digitale", "6 ore guida in pista", "Accesso simulatore online", "Accompagnamento esame"],
+      "badge": null
+    },
+    {
+      "id": "ricarica-punti",
+      "nome": "Recupero Punti",
+      "descrizione": "Corso di recupero punti della patente con 6 ore di lezione in aula. Certificato MIT rilasciato in giornata.",
+      "prezzo": 200,
+      "durata": "1 giorno",
+      "lezioniTeoria": 6,
+      "lezioniGuida": 0,
+      "etaMinima": 18,
+      "featured": false,
+      "incluso": ["Attestato MIT", "Materiale didattico", "Test finale"],
+      "badge": "Rapido"
+    },
+    {
+      "id": "recupero-patente",
+      "nome": "Revisione Patente",
+      "descrizione": "Percorso di revisione per chi ha subito revoca della patente. Esame medico e psicotecnico incluso.",
+      "prezzo": 350,
+      "durata": "1–2 mesi",
+      "lezioniTeoria": 15,
+      "lezioniGuida": 4,
+      "etaMinima": 18,
+      "featured": false,
+      "incluso": ["Visita medica", "Test psicotecnico", "Lezioni teoria", "4 ore guida", "Accompagnamento esame"],
+      "badge": null
+    },
+    {
+      "id": "neopatentati",
+      "nome": "Guida Accompagnata (GPA)",
+      "descrizione": "Per neopatentati da oltre 1 anno: sessioni extra con istruttore per consolidare sicurezza stradale.",
+      "prezzo": 120,
+      "durata": "2 settimane",
+      "lezioniTeoria": 0,
+      "lezioniGuida": 4,
+      "etaMinima": 18,
+      "featured": false,
+      "incluso": ["4 ore guida guidata", "Valutazione finale", "Attestato GPA"],
+      "badge": "Consigliato"
+    }
+  ]
+}
