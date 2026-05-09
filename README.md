@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Scuola Guida** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://scuola-guida.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-scuola-guida/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-scuola-guida/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-scuola-guida.git
-cd federico-demo-scuola-guida
+git clone https://github.com/fedcal/demo-scuola-guida.git
+cd demo-scuola-guida
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:scuola-guida
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-scuola-guida/
+→ https://fedcal.github.io/demo-scuola-guida/
 
 ## Hub demos Federico
 

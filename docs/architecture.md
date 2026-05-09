@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-scuola-guida/
+demo-scuola-guida/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)

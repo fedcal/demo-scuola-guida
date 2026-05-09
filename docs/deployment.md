@@ -43,7 +43,7 @@ In alternativa, basta connettere il repo alla **Vercel GitHub App** (Vercel Dash
 
 ## GitHub Pages — Documentation
 
-URL: `https://fedcal.github.io/federico-demo-scuola-guida/`
+URL: `https://fedcal.github.io/demo-scuola-guida/`
 
 ### Setup iniziale
 
@@ -53,7 +53,7 @@ URL: `https://fedcal.github.io/federico-demo-scuola-guida/`
 ### Configurazione VitePress
 
 `docs/.vitepress/config.ts`:
-- `base: /federico-demo-scuola-guida/` (subdirectory GH Pages)
+- `base: /demo-scuola-guida/` (subdirectory GH Pages)
 - `cleanUrls: true`
 - Search locale integrato
 - Sidebar + nav configurati

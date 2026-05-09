@@ -6,7 +6,7 @@ const TITLE = 'Demo Scuola Guida — Federico Calò';
 export default defineConfig({
   title: TITLE,
   description: 'Documentazione tecnica del template Angular 21 SSR per Scuola Guida.',
-  base: `/federico-demo-${SLUG}/`,
+  base: `/demo-${SLUG}/`,
   cleanUrls: true,
   lang: 'it-IT',
 
@@ -36,7 +36,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: `https://github.com/fedcal/federico-demo-${SLUG}` }
+      { icon: 'github', link: `https://github.com/fedcal/demo-${SLUG}` }
     ],
 
     footer: {

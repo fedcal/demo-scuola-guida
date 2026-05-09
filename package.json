@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-scuola-guida",
+  "name": "demo-scuola-guida",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Scuola Guida — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://scuola-guida.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-scuola-guida.git"
+    "url": "https://github.com/fedcal/demo-scuola-guida.git"
   },
   "scripts": {
     "ng": "ng",
